@@ -1,0 +1,14 @@
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\bin\Debug\net9.0\AdventOfCode2024.exe
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\bin\Debug\net9.0\AdventOfCode2024.deps.json
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\bin\Debug\net9.0\AdventOfCode2024.runtimeconfig.json
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\bin\Debug\net9.0\AdventOfCode2024.dll
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\bin\Debug\net9.0\AdventOfCode2024.pdb
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.AssemblyInfoInputs.cache
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.AssemblyInfo.cs
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.csproj.CoreCompileInputs.cache
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.dll
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\refint\AdventOfCode2024.dll
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.pdb
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\AdventOfCode2024.genruntimeconfig.cache
+C:\Users\Glaubitz_A\OneDrive - Westat\Desktop\advent-of-code-2024\obj\Debug\net9.0\ref\AdventOfCode2024.dll
